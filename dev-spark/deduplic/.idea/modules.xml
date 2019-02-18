@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deduplic.iml" filepath="$PROJECT_DIR$/.idea/modules/deduplic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deduplic-build.iml" filepath="$PROJECT_DIR$/.idea/modules/deduplic-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/0a0b1cbc48074bf3700a-deduplic.iml" filepath="$PROJECT_DIR$/.idea/modules/0a0b1cbc48074bf3700a-deduplic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-deduplic-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project-deduplic-build.iml" />
     </modules>
   </component>
 </project>

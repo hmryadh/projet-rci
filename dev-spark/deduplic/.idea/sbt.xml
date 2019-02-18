@@ -6,8 +6,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/project" />
+            <option value="$USER_HOME$/.sbt/1.0/staging/0a0b1cbc48074bf3700a/deduplic" />
+            <option value="$USER_HOME$/.sbt/1.0/staging/0a0b1cbc48074bf3700a/deduplic/project" />
           </set>
         </option>
         <option name="sbtVersion" value="1.2.8" />

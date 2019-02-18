@@ -1,4 +1,9 @@
 object HelloRCIgroup extends App {
-  println("Hello, world")
+
+  for (i<- 1 to 1000) {
+
+    println(i + " Fitec is Bullshit")
+  }
+
 }
 
